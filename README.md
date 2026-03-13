@@ -1,3 +1,6 @@
+
+![Language](https://img.shields.io/badge/language-Shell-4EAA25)
+
 http://xahlee.info/js/html5_non-closing_tag.html
 
 
